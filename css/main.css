@@ -8,6 +8,8 @@ body {
     float: left;
     font-family: Segoe UI Regular;
     font-size: 24px;
-    color: rgba(0,0,0,0.5);
+    color: rgba(0,0,0,0.3);
     text-decoration: none;
+    font-weight: bolder;
+    margin: 0 auto;
 }
