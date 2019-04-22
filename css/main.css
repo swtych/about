@@ -1,0 +1,12 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+#link {
+    position: relative;
+    float: left;
+    font-family: Segoe UI Regular;
+    font-size: 24px;
+    color: rgba(0,0,0,0.5);
+}
